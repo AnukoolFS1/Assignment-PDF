@@ -107,6 +107,14 @@ main {
   box-shadow: -2px 2px 15px black;
 }
 
+.cross {
+  position: absolute;
+  right: -1.5rem;
+  font-size: 2rem;
+  text-shadow: 1px 1px 20px black;
+  cursor: pointer;
+}
+
 .nav {
   display: flex;
   align-items: center;
